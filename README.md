@@ -90,7 +90,7 @@ Path to run the docker build from. Defaults to `.`.
 
 ### `dockerfile`
 
-Name of the Dockerfile. Defaults to `{path}/Dockerfile`.
+Path to the Dockerfile relative to `path`. Defaults to `{path}/Dockerfile`.
 
 ### `target`
 
